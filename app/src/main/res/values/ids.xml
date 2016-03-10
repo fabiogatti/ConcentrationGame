@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="player1" type="id"></item>
+    <item name="player2" type="id"></item>
+    <item name="player3" type="id"></item>
+    <item name="player4" type="id"></item>
+    <item name="score1" type="id"></item>
+    <item name="score2" type="id"></item>
+    <item name="score3" type="id"></item>
+    <item name="score4" type="id"></item>
+</resources>

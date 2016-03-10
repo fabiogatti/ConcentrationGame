@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Concentration Game</string>
+    <string name="Players">Select number of players</string>
+    <string name="button1">New game</string>
+    <string name="button2">About</string>
+    <string name="button3">High scores</string>
+    <string name="button4">Close</string>
+    <string name="info">\n Created by Fabio Alessandro Gatti \n fabio.gatti@hotmail.com \n V 0.1 \n All rights reserved</string>
+    <string name="p1">Player 1</string>
+    <string name="p2">Player 2</string>
+    <string name="p3">Player 3</string>
+    <string name="p4">Player 4</string>
+    <string name="menu">Main menu</string>
+    <string name="newgame">New game</string>
+    <string name="restart">Restart</string>
+    <string name="select">Select another box</string>
+    <string name="winner">wins!</string>
+    <string name="tie">Tie! \n (Ties don\'t register high scores)</string>
+    <string name="warning">Warning!</string>
+    <string name="finish">Game over</string>
+    <string name="plays">\n Turns played: </string>
+    <string name="restartText">Game restarted</string>
+    <string name="newGameText">New game initiated</string>
+    <string name="empty">Empty</string>
+    <string name="hPlayer">Name</string>
+    <string name="hScore">Score</string>
+    <string name="hPlayers">Players</string>
+    <string name="hPlays">Plays</string>
+    <string name="resetScores">Reset scores</string>
+    <string name="reset">Scores reset</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">El juego de la concentración</string>
+    <string name="Players">Selecciona el numero de jugadores</string>
+    <string name="button1">Nuevo juego</string>
+    <string name="button2">Acerca de</string>
+    <string name="button3">Puntajes altos</string>
+    <string name="button4">Cerrar</string>
+    <string name="info">\n Creado por Fabio Alessandro Gatti \n fabio.gatti@hotmail.com \n V 0.1 \n Todos los derechos reservados</string>
+    <string name="p1">Jugador 1</string>
+    <string name="p2">Jugador 2</string>
+    <string name="p3">Jugador 3</string>
+    <string name="p4">Jugador 4</string>
+    <string name="menu">Menú principal</string>
+    <string name="newgame">Nuevo juego</string>
+    <string name="restart">Reiniciar juego</string>
+    <string name="select">\n Seleccione otra casilla</string>
+    <string name="winner">gana!</string>
+    <string name="tie">Empate! \n (Los empates no registran puntajes algots)</string>
+    <string name="warning">Advertencia!</string>
+    <string name="finish">Terminó el juego</string>
+    <string name="plays">\n Turnos jugados: </string>
+    <string name="restartText">Juego reiniciado</string>
+    <string name="newGameText">Nuevo juego empezado</string>
+    <string name="empty">Vacío</string>
+    <string name="hPlayer">Nombre</string>
+    <string name="hScore">Puntaje</string>
+    <string name="hPlayers">Jugadores</string>
+    <string name="hPlays">Jugadas</string>
+    <string name="resetScores">Reiniciar puntajes</string>
+    <string name="reset">Puntajes reiniciados</string>
+</resources>
